@@ -1,4 +1,4 @@
-Gerenciador-de-Gastos-em-C
+#Gerenciador-de-Gastos-em-C
 
 <h1>Sistema de Controlo Financeiro em C </h1> 
 <br>
