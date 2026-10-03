@@ -1,5 +1,3 @@
-#Gerenciador-de-Gastos-em-C
-
 <h1>Sistema de Controlo Financeiro em C </h1> 
 <br>
 Este repositório contém a resolução de uma atividade académica focada na criação de um sistema de controlo financeiro. Embora a proposta inicial previsse o uso da linguagem Python (sem recorrer a listas ou funções), optei por desenvolver a lógica inteiramente em C por iniciativa pessoal e foco no meu percurso de aprendizagem.
